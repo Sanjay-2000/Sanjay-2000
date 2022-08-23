@@ -1,5 +1,6 @@
 ###   Hi 👋, I'm Sanjay
-#### Student @ atria institute of technology
+#### Graduated from  atria institute of technology
+#### Flutter and Web
 
 
 ### My Stats😀
