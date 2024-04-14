@@ -1,5 +1,5 @@
 ###   Hi 👋, I'm Sanjay
-#### Graduated from  atria institute of technology
+#### I'll code and i'll forget 😴
 
 
 
